@@ -6,5 +6,5 @@ gsst.ipynb/html 中分别对线性模型中的线性回归和逻辑回归以及s
 
 lr_numpy_test.ipynb/html 中尝试使用numpy来源码实现逻辑回归。
 
-公式手推原图文件夹则是gsst.ipynb/html中公式手推的四张原图。
+公式手推的原图由于图片质量较高，有二十几兆，为了传输速度就不上传了。
 
