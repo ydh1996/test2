@@ -1,7 +1,10 @@
 # test1
 
-fenlei_1.ipynb/.html 是基于图像像素的特征利用逻辑回归、决策树和支持向量机对mnist数据集进行分类
-fenlei_2.ipynb/.html 则是基于灰度直方图特征利用上述三种模型进行分类  
-svm_blog.ipynb 是对svm算法的一个理解博文，但是由于我的进度比较慢，所以只写了很少的一部分，之后将继续完善！
+svm_test.ipynb 中对于svm方法在确定其他参数的情况下对C参数进行了手动的一些调整尝试，绘制了C-精度变化图，找到了具有更高分类精度的C值。相较于原来默认                    C=1.0情况下71.56%的分类精度，在C=0.9至1.0之间，分类精度能达到80%以上。
 
-我的Profile 网页地址为：https://github.com/ydh1996
+gsst.ipynb/html 中分别对线性模型中的线性回归和逻辑回归以及svm的二分类情况进行了公式手推。
+
+lr_numpy_test.ipynb/html 中尝试使用numpy来源码实现逻辑回归。
+
+公式手推原图文件夹则是gsst.ipynb/html中公式手推的四张原图。
+
