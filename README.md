@@ -1,6 +1,4 @@
-# test2_终稿
+# test3
 
-lunwenshixian.ipynb/html 中在mnist数据集上用k-means方法大致实现了论文的整个过程，最后得到87%左右的预测分类精度。
-
-技术报告.pdf 中对论文的思想和代码的实现目的、过程进行了简单阐述。
+qhxx.ipynb/html 中对关于强化学习的博客中的内容进行了python实现。
 
